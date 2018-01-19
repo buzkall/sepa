@@ -5,7 +5,7 @@
 ### Installation using Composer
 
 ```
-composer require perryfaro/sepa
+composer require buzkall/sepa
 ```
 
 ### Example
