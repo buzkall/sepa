@@ -4,8 +4,18 @@
 
 ### Installation using Composer
 
+Append to composer.json
 ```
-composer require buzkall/sepa
+ "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/buzkall/sepa"
+        }
+    ],
+```
+
+```
+composer require perryfano/sepa:dev-master
 ```
 
 ### Example
